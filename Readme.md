@@ -13,8 +13,8 @@ This is a responsive to-do list web app that allows users to add, delete, and ma
 
 ##  Tech Stack
 - **HTML5** – Structure
-- **CSS3** – Styling (Flexbox/Grid/Animations)
-- **JavaScript (ES6)** – Logic & DOM Manipulation
+- **CSS3** – Styling : Method yet to be decided
+- **JavaScript (ES6)** – Logic & DOM Manipulations
 
 ---
 
