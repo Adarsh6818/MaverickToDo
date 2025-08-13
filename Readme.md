@@ -10,7 +10,7 @@ This is a responsive to-do list web app that allows users to add, delete, and ma
 - Mark tasks as completed
 
 ---
-
+ 
 ##  Tech Stack
 - **HTML5** – Structure
 - **CSS3** – Styling : Method yet to be decided
